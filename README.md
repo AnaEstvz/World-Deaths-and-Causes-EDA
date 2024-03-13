@@ -29,9 +29,9 @@ Además, se cuenta con un segundo conjunto de datos que proporciona información
 
 El proceso de limpieza de datos incluyó:
 
-Eliminación de valores nulos o faltantes.
-Agrupación de países en continentes.
-Agrupación de enfermedades en categorías concretas.
+- Eliminación de valores nulos o faltantes.
+- Agrupación de países en continentes.
+- Agrupación de enfermedades en categorías concretas.
 
 
 Durante el análisis, se plantean las siguientes hipótesis a validar:
