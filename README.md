@@ -54,9 +54,9 @@ Dado el cambio en los estilos de vida y los factores de riesgo asociados, se sup
 
 ## Estructura del Repositorio
 
-cause_of_deaths.csv: Contiene los datos sobre muertes por enfermedades.
-evolucion_en_la_densidad_de_poblacion_de_cada_continente.csv: Contiene los datos sobre densidad de población por continente.
-EDA_MUERTES_FINAL.ipynb: Jupyter Notebook que contiene el código y los pasos del análisis exploratorio de datos.
+- cause_of_deaths.csv: Contiene los datos sobre muertes por enfermedades
+- evolucion_en_la_densidad_de_poblacion_de_cada_continente.csv: Contiene los datos sobre densidad de población por continente.
+- EDA_MUERTES_FINAL.ipynb: Jupyter Notebook que contiene el código y los pasos del análisis exploratorio de datos.
 
 
 ## Resultados Esperados
